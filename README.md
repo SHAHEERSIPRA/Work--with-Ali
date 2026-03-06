@@ -24,4 +24,5 @@ In this repository we will:
 5. Resolve conflicts and commit the fixes.
 
 ## Objective
+By the end of this Shaheer will be able to practice, we aim to better understand how Git handles collaboration and how developers work together using branches and merges.
 By the end of this practice muhammad ali will learn gitgub conflict management , we aim to better understand how Git handles collaboration and how developers work together using branches and merges         .
